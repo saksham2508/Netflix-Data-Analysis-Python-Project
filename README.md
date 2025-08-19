@@ -3,6 +3,8 @@
 
 ## Overview  
 This project analyzes the Netflix Movies & TV Shows Dataset to extract insights about content trends, genres, ratings, and countries of production. The goal is not only to clean and explore the dataset but also to translate numbers into meaningful business insights that highlight Netflix’s content strategy.  
+_[Netflix Data Analysis Project PDF](https://github.com/saksham2508/Netflix-Data-Analysis-Python-Project/blob/main/Netflix_Data_Analysis.pdf)_ 
+
 
 ---
 
@@ -15,7 +17,7 @@ This project analyzes the Netflix Movies & TV Shows Dataset to extract insights 
 ---
 
 ## Dataset  
-The dataset contains information about Netflix Movies & TV Shows, including:  
+The dataset contains information about Netflix Movies & TV Shows, including:_[Data File](https://github.com/saksham2508/Netflix-Data-Analysis-Python-Project/blob/main/netflix_titles.csv)_   
 - Title  
 - Director  
 - Cast  
