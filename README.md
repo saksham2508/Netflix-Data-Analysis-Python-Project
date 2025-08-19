@@ -1,5 +1,5 @@
 # Netflix-Data-Analysis-Python-Project 
-![banner](https://github.com/saksham2508/Monday-Coffee-Expansion-SQL-Project/blob/main/Monday%20coffee%20project.jpg)
+![banner](https://github.com/saksham2508/Netflix-Data-Analysis-Python-Project/blob/main/Netflix%20Baneer%20image.jpg)
 
 ## Overview  
 This project analyzes the Netflix Movies & TV Shows Dataset to extract insights about content trends, genres, ratings, and countries of production. The goal is not only to clean and explore the dataset but also to translate numbers into meaningful business insights that highlight Netflix’s content strategy.  
